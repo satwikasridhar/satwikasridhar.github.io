@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.1e23a38b.css",
+    "main.js": "/react-gh-pages/static/js/main.29f88950.js",
+    "static/media/satwikapic1.jpg": "/react-gh-pages/static/media/satwikapic1.65642e1eec104f0bc601.jpg",
+    "static/media/resume.pdf": "/react-gh-pages/static/media/resume.6ba94f1886046e338fac.pdf",
+    "index.html": "/react-gh-pages/index.html",
+    "main.1e23a38b.css.map": "/react-gh-pages/static/css/main.1e23a38b.css.map",
+    "main.29f88950.js.map": "/react-gh-pages/static/js/main.29f88950.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e23a38b.css",
+    "static/js/main.29f88950.js"
+  ]
+}
