@@ -1,0 +1,9 @@
+.container.certificates__container{
+    /* display: grid;
+    grid-template-columns: repeat(3,1fr); */
+    /* gap: 5rem; */
+    height: 40%;
+    padding-right: 4rem;
+    padding-left: 4rem;
+    width: 40%;
+}

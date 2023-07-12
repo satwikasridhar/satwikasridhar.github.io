@@ -17,6 +17,12 @@
     --color-white: #fff;
     --color-light: rgba(255,255,255,0.6);
 
+    /* --color-bg: #4C0033;
+    --color-bg-variant: #AF0171;
+    --color-primary: #F0CAA3;
+    --color-white: #fff;
+    --color-light: rgba(255,255,255,0.6); */
+
     --transition: all 400ms ease;
 
     --container-width-lg: 75%;
@@ -37,8 +43,23 @@ body {
     background: var(--color-bg);
     color: var(--color-white);
     line-height: 1.7;
-    /* background-image: url; */
+    /* background-image: url('../src/assets/texture2.jpg'); */
+    /* background: linear-gradient(-45deg, #994931, #792b49, #295362, #366d60);
+    background-size: 400% 400%;
+    animation: gradient 15s ease infinite; */
 }
+
+/* @keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+} */
 
 /* General styles */
 .container {
@@ -114,6 +135,7 @@ img{
         width: var(--container-width-md);
     }
     section{
+        /* padding-top: 8rem; */
         margin-top: 6rem;
     }
     

@@ -24,7 +24,7 @@ header{
     gap: 0.7rem;
     position: absolute;
     left: 0;
-    bottom: 3rem;
+    margin-top: 8rem;
     /* background: var(--color-primary); */
 }
 

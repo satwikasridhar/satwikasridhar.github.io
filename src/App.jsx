@@ -6,6 +6,7 @@ import Portfolio from './components/portfolio/Portfolio'
 import Experience from './components/experience/Experience'
 import Contact from './components/contact/Contact'
 import Footer from './components/footer/Footer'
+import Certificates from './components/certificates/Certificates'
 // import NavPrompt from './components/navprompt/NavPrompt'
 // import { createContext, useState } from 'react'
 
@@ -19,8 +20,9 @@ const App = () => {
         {/* <NavPrompt /> */}
         <Nav />
         <About />
-        <Portfolio />
         <Experience />
+        <Portfolio />
+        <Certificates />
         <Contact />
         <Footer /> 
       </>
