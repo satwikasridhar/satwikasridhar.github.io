@@ -1,15 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.1e23a38b.css",
-    "main.js": "/static/js/main.ad139a0c.js",
+    "main.css": "/static/css/main.103532fa.css",
+    "main.js": "/static/js/main.ce6c0d2b.js",
+    "static/media/pneumonia.jpg": "/static/media/pneumonia.9e77d5f1b67d8415fd5e.jpg",
+    "static/media/cybersec.jpg": "/static/media/cybersec.0c4a5d366c0331e70280.jpg",
+    "static/media/korean.jpg": "/static/media/korean.68bf7c8e5fa2c90a0d1a.jpg",
+    "static/media/cert3.jpg": "/static/media/cert3.3256d66acfd8ac6af425.jpg",
+    "static/media/cert2.jpg": "/static/media/cert2.882d96ce94ec0222edc4.jpg",
+    "static/media/cert1.jpg": "/static/media/cert1.3b6cc4d574507a53d022.jpg",
     "static/media/resume.pdf": "/static/media/resume.fe6b2dd4e256e5ae4081.pdf",
     "static/media/satwikapic1.jpg": "/static/media/satwikapic1.65642e1eec104f0bc601.jpg",
     "index.html": "/index.html",
-    "main.1e23a38b.css.map": "/static/css/main.1e23a38b.css.map",
-    "main.ad139a0c.js.map": "/static/js/main.ad139a0c.js.map"
+    "main.103532fa.css.map": "/static/css/main.103532fa.css.map",
+    "main.ce6c0d2b.js.map": "/static/js/main.ce6c0d2b.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e23a38b.css",
-    "static/js/main.ad139a0c.js"
+    "static/css/main.103532fa.css",
+    "static/js/main.ce6c0d2b.js"
   ]
 }
