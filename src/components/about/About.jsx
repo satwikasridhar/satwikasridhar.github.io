@@ -4,7 +4,7 @@ import {FaAward} from 'react-icons/fa'
 import ME from '../../assets/satwikapic2.jpg'
 const About = () => {
   return (
-    <section id="about">
+    <section id="about" className='about'>
       <h5>Here's a little bit</h5>
       <h2>About Me</h2>
 

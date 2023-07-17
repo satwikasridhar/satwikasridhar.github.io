@@ -75,12 +75,19 @@
 }
 /* media queries - small devices */
 @media screen and  (max-width: 600px) {
+    .portfolio{
+        margin-top: 25rem;
+    }
     .container.portfolio__container{
+        padding-top: 4rem;
         grid-template-columns: 1fr;
         gap: 1rem;
     }
     .portfolio__item >h5{
         display: none;
+    }
+    .portfolio__item-cta{
+        margin-left: 24%;
     }
     
 }

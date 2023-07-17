@@ -69,7 +69,7 @@ const data = [
 ]
 const Portfolio = () => {
   return (
-    <section id="portfolio">
+    <section id="portfolio" className='portfolio'>
       <h5>Stuff I've Worked On</h5>
       <h2>Projects</h2>
 

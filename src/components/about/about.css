@@ -87,7 +87,9 @@
 /* media queries - small devices */
 @media screen and  (max-width: 600px) {
     
-    
+    .about{
+        height: 100vh;
+    }
     .container.about__container{
         grid-template-columns: 1fr;
         gap: 0;

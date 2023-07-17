@@ -152,8 +152,10 @@ img{
         width: var(--container-width-sm);
     }
     section{
+        position: relative;
         margin-top: 2rem;
         padding-top: 2rem;
+        /* height: 190%; */
     }
     
 }

@@ -71,7 +71,7 @@
 /* media queries - small devices */
 @media screen and  (max-width: 600px) {
     .container.certificates__container{
-        padding-top: 8rem;
+        padding-top: 0rem;
         width: 100% ;
         font-size: larger;
         height: 100vh;
@@ -81,6 +81,12 @@
         display: grid;
         grid-template-columns: 1fr;
         row-gap: 1rem;
+    }
+    .certificates__item-image{
+        width: 15rem;
+        height: 13rem;
+        padding-left: 0rem;
+        /* display: absolute; */
     }
     
 }

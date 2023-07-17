@@ -65,16 +65,20 @@
     /* section{
         padding-top: 8rem;
     } */
-    .container.experience__container{
+    .experience__container{
+        display: flex;
+        /* height: max-content; */
         grid-template-columns: 1fr;
         gap: 1rem;
     }
     .container.experience__container > div{
-        width: 100%;
+        width: 80%;
         grid-template-columns: 1fr 1fr;
         padding: 2rem 1rem;
         margin: 0 auto;
     }
-    
+    .experience__content{
+        grid-template-columns: 1fr 1fr 1fr;
+    }
     
 }
