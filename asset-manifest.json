@@ -1,11 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.fa618588.css",
+    "main.css": "/static/css/main.b696e016.css",
     "main.js": "/static/js/main.3d37251f.js",
     "static/media/ids.jpg": "/static/media/ids.cf39a7f852fbf77ac979.jpg",
     "static/media/disease-prediction.jpg": "/static/media/disease-prediction.661aa5564e1c6d01b0b2.jpg",
     "static/media/pneumonia.jpg": "/static/media/pneumonia.054d7982b24ed7e5143c.jpg",
-    "static/media/texture2.jpg": "/static/media/texture2.222df5fcced096799e26.jpg",
     "static/media/crypto.jpg": "/static/media/crypto.3ee067c73216e6e985a0.jpg",
     "static/media/cybersec.jpg": "/static/media/cybersec.0c4a5d366c0331e70280.jpg",
     "static/media/Google Data Analytics.jpg": "/static/media/Google Data Analytics.fe21ac4b30f7bc9e5363.jpg",
@@ -33,11 +32,11 @@
     "static/media/resume.pdf": "/static/media/resume.fe6b2dd4e256e5ae4081.pdf",
     "static/media/satwikapic1.jpg": "/static/media/satwikapic1.65642e1eec104f0bc601.jpg",
     "index.html": "/index.html",
-    "main.fa618588.css.map": "/static/css/main.fa618588.css.map",
+    "main.b696e016.css.map": "/static/css/main.b696e016.css.map",
     "main.3d37251f.js.map": "/static/js/main.3d37251f.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa618588.css",
+    "static/css/main.b696e016.css",
     "static/js/main.3d37251f.js"
   ]
 }
