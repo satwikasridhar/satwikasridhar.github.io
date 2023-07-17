@@ -1,21 +1,43 @@
 {
   "files": {
-    "main.css": "/static/css/main.103532fa.css",
-    "main.js": "/static/js/main.ce6c0d2b.js",
-    "static/media/pneumonia.jpg": "/static/media/pneumonia.9e77d5f1b67d8415fd5e.jpg",
+    "main.css": "/static/css/main.fa618588.css",
+    "main.js": "/static/js/main.3d37251f.js",
+    "static/media/ids.jpg": "/static/media/ids.cf39a7f852fbf77ac979.jpg",
+    "static/media/disease-prediction.jpg": "/static/media/disease-prediction.661aa5564e1c6d01b0b2.jpg",
+    "static/media/pneumonia.jpg": "/static/media/pneumonia.054d7982b24ed7e5143c.jpg",
+    "static/media/texture2.jpg": "/static/media/texture2.222df5fcced096799e26.jpg",
+    "static/media/crypto.jpg": "/static/media/crypto.3ee067c73216e6e985a0.jpg",
     "static/media/cybersec.jpg": "/static/media/cybersec.0c4a5d366c0331e70280.jpg",
+    "static/media/Google Data Analytics.jpg": "/static/media/Google Data Analytics.fe21ac4b30f7bc9e5363.jpg",
+    "static/media/Terraform for Absolute Beginners.jpg": "/static/media/Terraform for Absolute Beginners.3109683d35abea180949.jpg",
+    "static/media/Python Flask.jpg": "/static/media/Python Flask.b1fc94bf09c76205d5ce.jpg",
     "static/media/korean.jpg": "/static/media/korean.68bf7c8e5fa2c90a0d1a.jpg",
-    "static/media/cert3.jpg": "/static/media/cert3.3256d66acfd8ac6af425.jpg",
-    "static/media/cert2.jpg": "/static/media/cert2.882d96ce94ec0222edc4.jpg",
-    "static/media/cert1.jpg": "/static/media/cert1.3b6cc4d574507a53d022.jpg",
+    "static/media/Google Data Analytics Capstone.jpg": "/static/media/Google Data Analytics Capstone.ffd51ef466b5be39260a.jpg",
+    "static/media/Put it to Work- Prepare for Cybersecurity Jobs.jpg": "/static/media/Put it to Work- Prepare for Cybersecurity Jobs.cb917f5e17680ce17073.jpg",
+    "static/media/Share Data through the Art of Visualization.jpg": "/static/media/Share Data through the Art of Visualization.26737ca1d39ed26313f8.jpg",
+    "static/media/Connect and Protect.jpg": "/static/media/Connect and Protect.4bd617f3f6089d9051a5.jpg",
+    "static/media/Automate cybersecurity.jpg": "/static/media/Automate cybersecurity.3256d66acfd8ac6af425.jpg",
+    "static/media/Data Analysis with R Programming.jpg": "/static/media/Data Analysis with R Programming.b2a564ed7df9d9390a5c.jpg",
+    "static/media/Foundations- Data.jpg": "/static/media/Foundations- Data.a3ebd475b3d015e536f1.jpg",
+    "static/media/Play it Safe- Manage Security Risks.jpg": "/static/media/Play it Safe- Manage Security Risks.02cc39f4c9f753e7963a.jpg",
+    "static/media/Assets Threats.jpg": "/static/media/Assets Threats.882d96ce94ec0222edc4.jpg",
+    "static/media/Analyze Data.jpg": "/static/media/Analyze Data.3b6cc4d574507a53d022.jpg",
+    "static/media/Tools of the Trade- SQL and Linux.jpg": "/static/media/Tools of the Trade- SQL and Linux.45ffe26b9f2d3a79dfe8.jpg",
+    "static/media/Process Data from Dirty to Clean.jpg": "/static/media/Process Data from Dirty to Clean.36c5efd66eab7c566d50.jpg",
+    "static/media/Foundations of Cybersecurity.jpg": "/static/media/Foundations of Cybersecurity.0d4c8753d9ec27338edf.jpg",
+    "static/media/Prepare Data for Exploration.jpg": "/static/media/Prepare Data for Exploration.3b3db2acc106e89984f8.jpg",
+    "static/media/Sound the Alarm- Detection and Response.jpg": "/static/media/Sound the Alarm- Detection and Response.be95e7d438699b3bc49e.jpg",
+    "static/media/satwikapic2.jpg": "/static/media/satwikapic2.b0cf228df8aff0af429e.jpg",
+    "static/media/violence.jpeg": "/static/media/violence.fe7d3c3f3a511be0988b.jpeg",
+    "static/media/payments.jpeg": "/static/media/payments.449b142ff02f3d1d4f59.jpeg",
     "static/media/resume.pdf": "/static/media/resume.fe6b2dd4e256e5ae4081.pdf",
     "static/media/satwikapic1.jpg": "/static/media/satwikapic1.65642e1eec104f0bc601.jpg",
     "index.html": "/index.html",
-    "main.103532fa.css.map": "/static/css/main.103532fa.css.map",
-    "main.ce6c0d2b.js.map": "/static/js/main.ce6c0d2b.js.map"
+    "main.fa618588.css.map": "/static/css/main.fa618588.css.map",
+    "main.3d37251f.js.map": "/static/js/main.3d37251f.js.map"
   },
   "entrypoints": [
-    "static/css/main.103532fa.css",
-    "static/js/main.ce6c0d2b.js"
+    "static/css/main.fa618588.css",
+    "static/js/main.3d37251f.js"
   ]
 }
