@@ -1,6 +1,6 @@
 header{
-    height: 105vh;
-    padding-top: 4rem;
+    height: 100vh;
+    padding-top: 2rem;
     overflow: hidden;
 }
 
@@ -28,12 +28,7 @@ header{
     /* background: var(--color-primary); */
 }
 
-.header__socials::after{
-    content: "";
-    width: 1px;
-    height: 2rem;
-    background: var(--color-primary);
-}
+
 
 .me{
     /* background: linear-gradient(var(--color-primary),transparent); */
@@ -62,19 +57,27 @@ header{
 /* media queries - medium devices */
 @media screen and  (max-width: 1024px) {
     header{
-        height: 68vh;
+        padding-top: 11rem;
+        height: 100vh;
+    }
+    .me{
+        height: 25rem;
+        width: 25rem;
     }
     
 }
 /* media queries - small devices */
 @media screen and  (max-width: 600px) {
     header{
+        padding-top: 2rem;
         height: 100vh;
     }
     .header__socials,.header__socials::after {
         display: none;
     }
     .me{
+        height: 19rem;
+        width: 19rem;
         margin-top: 8rem;
     }
     

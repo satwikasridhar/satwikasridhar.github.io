@@ -1,6 +1,11 @@
 import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../assets/pneumonia.jpg'
+import IMG2 from '../../assets/ids.jpg'
+import IMG3 from '../../assets/violence.jpeg'
+import IMG4 from '../../assets/payments.jpeg'
+import IMG5 from '../../assets/disease-prediction.jpg'
+import IMG6 from '../../assets/crypto.jpg'
 // import Swiper core and required modules
 import { Navigation, Pagination, Scrollbar, A11y } from 'swiper';
 
@@ -26,40 +31,41 @@ if(width1 < 800){
 const data = [
   {
     cover: IMG1,
-    name: "Project 1",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    githubLink: 'https://github.com',
+    name: "Pneumonia Detection",
+    description: "Applies convolutional neural networks to accurately detect pneumonia from x-ray images of the lungs.",
+    githubLink: 'https://github.com/satwikasridhar/Pneumonia-Detection',
   },
   {
-    cover: IMG1,
-    name: "Project 2",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    githubLink: 'https://github.com',
+    cover: IMG2,
+    name: "Explainable AI for Intrusion Detection",
+    description: "Developing an explainable AI model for intrusion detection to identify potential cyber threats.",
+    githubLink: 'https://github.com/satwikasridhar/Intrusion-Detection-Explainable-AI',
   },
   {
-    cover: IMG1,
-    name: "Project 3",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    githubLink: 'https://github.com',
+    cover: IMG3,
+    name: "Violence Detection",
+    description: "Identifies exact instances of violence in video footage.",
+    githubLink: 'https://github.com/Violence-Detection',
   },
   {
-    cover: IMG1,
-    name: "Project 4",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    githubLink: 'https://github.com',
+    cover: IMG4,
+    name: "Paysim Transaction Analysis",
+    description: "Performing network analysis on a dataset of online payment transactions.",
+    githubLink: 'https://github.com/Paysim-Transaction-Analysis',
   },
   {
-    cover: IMG1,
-    name: "Project 5",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    githubLink: 'https://github.com',
+    cover: IMG5,
+    name: "Disease Prediction",
+    description: "A prediction model in R to aid diagnosis based on symptoms.",
+    githubLink: 'https://github.com/Disease-Prediction',
   },
   {
-    cover: IMG1,
-    name: "Project 6",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    githubLink: 'https://github.com',
+    cover: IMG6,
+    name: "Crypto Tracker",
+    description: "A dashboard for various cryptocurrencies and their trends in the market.",
+    githubLink: 'https://github.com/Crypto-Tracker',
   },
+  
 ]
 const Portfolio = () => {
   return (
@@ -87,7 +93,7 @@ const Portfolio = () => {
                 <h3>{name}</h3>
                 <h5>{description}</h5>
                 <div className='portfolio__item-cta'>
-                  <a href={githubLink} className='btn btn-primary'>Github</a>
+                  <a href={githubLink} target="_blank" className='btn btn-primary'>Github</a>
                 </div>
               </SwiperSlide>
             )

@@ -1,26 +1,33 @@
 nav{
     /* background: rgba(32, 45, 102, 0.6); */
     width: max-content;
-    display: block;
+    /* width: 50%; */
+    /* display: block; */
     padding: 0.7rem 1.7rem;
     z-index: 2;
     position: fixed;
     left: 50%;
     gap: 0.8rem;
     display: flex;
-    border-radius: 4rem;
+    border-radius: 3rem;
+    /* top: 0rem; */
     bottom: 2rem;
-    transform: translateX(-50%);
-    backdrop-filter: blur(5px);
+    transform: translateX(-50%); 
+    backdrop-filter: blur(20px);
+    /* background: var(--color-bg-variant);
+    align-items: center; */
 }
 
 nav a{
+    left: 50%;
     background: transparent;
     padding: 0.9rem;
+    /* padding-left: 9rem; */
     border-radius: 50%;
     display: flex;
     color: var(--color-white);
     font-size: 1.6rem ; /* 1.1rem*/
+    /* align-items: center; */
 }
 
 nav a:hover{
@@ -47,3 +54,5 @@ nav a.active{
 .navbar-prompt.visible {
 opacity: 1;
 }
+
+

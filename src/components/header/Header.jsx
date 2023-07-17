@@ -8,14 +8,14 @@ const Header = () => {
   return (
     <header>
       <div className="container header__container">
-        <h5>Hello I'm</h5>
+        <h5>Hey There! I'm</h5>
         <h1>Satwika Sridhar</h1>
         <div className="type-str">
             <Typewriter
                 options={{
                   autoStart: true,
                   loop: true,
-                  strings: ['CSE Student','Data Analyst','Software Developer','Bibliophile','I screamed out loud when this started working','This will not be in the final dw'],
+                  strings: ['CSE Student','Data Analyst','Software Developer','Web Developer','Content Writer','Bibliophile'],
                 }}
             />
         </div>

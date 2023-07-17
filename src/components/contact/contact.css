@@ -3,6 +3,8 @@
     display: grid;
     grid-template-columns: 30% 58%;
     gap: 12rem;
+    height: 75vh;
+    /* padding-bottom: 8rem; */
 }
 
 .contact__options{
@@ -12,7 +14,8 @@
 }
 
 .contact__option{
-    padding: 1.2rem;
+    padding: 0.7rem;
+    padding-left: 0.7rem;
     border-radius: 1.2rem;
     text-align: center;
     border: 1px solid transparent;
@@ -59,13 +62,17 @@ input,textarea{
     .container.contact__container{
         grid-template-columns: 1fr;
         gap: 2rem;
+        /* padding-top: m; */
     }
+    
     
 }
 /* media queries - small devices */
 @media screen and  (max-width: 600px) {
     .container.contact__container{
         width: var(--container-width-sm);
+        height: 100vh;
+        /* overflow: visible; */
     }
     
 }
