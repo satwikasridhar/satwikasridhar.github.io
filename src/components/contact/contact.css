@@ -69,6 +69,9 @@ input,textarea{
 }
 /* media queries - small devices */
 @media screen and  (max-width: 600px) {
+    .contact{
+        height: 120vh;
+    }
     .container.contact__container{
         width: var(--container-width-sm);
         height: 100vh;

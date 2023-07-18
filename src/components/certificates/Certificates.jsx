@@ -52,10 +52,10 @@ const data = [
         cover: IMG11,
         name: "Google Data Analytics",
         verify_link: "https://coursera.org/share/0e30eec788e78b9ea2a1403bf4e30513",
-        desc1: "Dashboards and presentations",
+        desc1: "R",
         desc2: "Organizing data, data life cycle",
         desc3: "Analytical skills using Tableau",
-        desc4: "R",
+        desc4: "Dashboards and presentations",
     },
     {
         cover: IMG9,
@@ -124,7 +124,7 @@ const data = [
     },
     {
         cover: IMG4,
-        name: "Connect & Protect Networks & Network Security ",
+        name: "Connect & Protect Networks and Network Security ",
         verify_link: "https://coursera.org/share/fccf63b9f77b6ef92ee50303f02658ba",
         desc1: "Cloud Networks and Types",
         desc2: "Security Hardening",
@@ -147,16 +147,16 @@ const data = [
         desc1: "Data Analytics Concepts",
         desc2: "Data Visualization Tools",
         desc3: "Analytical Thinking",
-        desc4: "Role of a data analyst",
+        desc4: "Role of a Data Analyst",
     },
     {
         cover: IMG8,
         name: "Foundations of Cybersecurity",
         verify_link: "https://coursera.org/share/88a5ae9fa5ea8d5d1f32e74c3278a930",
-        desc1: "Information Security",
+        desc1: "Roles in Cybersec",
         desc2: "NIST Cybersecurity Framework",
         desc3: "Ethics in Cybersecurity",
-        desc4: "Scope",
+        desc4: "INFOSEC",
     },
     {
         cover: IMG10,
@@ -172,9 +172,9 @@ const data = [
         name: "Play it Safe- Manage Security Risks",
         verify_link: "https://coursera.org/share/a41b0456b2b30857106dd1407a1ea0c5",
         desc1: "Information Security",
-        desc2: "Security Audits, Incident Response Playbooks",
+        desc2: "Security Audits",
         desc3: "NIST RMF",
-        desc4: "NIST CSF",
+        desc4: "Incident Response Playbooks",
     },
     // {
     //     cover: IMG13,
@@ -227,10 +227,10 @@ const data = [
         cover: IMG20,
         name: "Tools of the Trade- Linux & SQL",
         verify_link: "https://coursera.org/share/091bc5956a1b08c1cfd92783473de416",
-        desc1: "Linux commands via the Bash shell",
+        desc1: "CLI",
         desc2: "Use SQL to retrieve data",
         desc3: "Operating Systems and hardware",
-        desc4: "CLI",
+        desc4: "Linux commands via the Bash shell",
     },
  
 ]
@@ -263,7 +263,7 @@ const Certificates = () => {
                                     <img src={cover} alt="project loading..."/>
                                 </div>
                                 <div className='certificates__description'>
-                                    {name}  -- <a href={verify_link}>Click Here</a> to verify<br />
+                                    {name}  -- <a href={verify_link} target="_blank">Click Here</a> to verify<br />
                                     <p>
                                     <div className="description__container">
                                         <div className='description__details'>

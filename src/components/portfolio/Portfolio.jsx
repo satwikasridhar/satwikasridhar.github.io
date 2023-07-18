@@ -6,6 +6,7 @@ import IMG3 from '../../assets/violence.jpeg'
 import IMG4 from '../../assets/payments.jpeg'
 import IMG5 from '../../assets/disease-prediction.jpg'
 import IMG6 from '../../assets/crypto.jpg'
+import IMG7 from '../../assets/demographic.jpeg'
 // import Swiper core and required modules
 import { Navigation, Pagination, Scrollbar, A11y } from 'swiper';
 
@@ -45,25 +46,31 @@ const data = [
     cover: IMG3,
     name: "Violence Detection",
     description: "Identifies exact instances of violence in video footage.",
-    githubLink: 'https://github.com/Violence-Detection',
+    githubLink: 'https://github.com/satwikasridhar/Violence-Detection',
   },
   {
     cover: IMG4,
     name: "Paysim Transaction Analysis",
     description: "Performing network analysis on a dataset of online payment transactions.",
-    githubLink: 'https://github.com/Paysim-Transaction-Analysis',
+    githubLink: 'https://github.com/satwikasridhar/Paysim-Transaction-Analysis',
   },
   {
     cover: IMG5,
     name: "Disease Prediction",
     description: "A prediction model in R to aid diagnosis based on symptoms.",
-    githubLink: 'https://github.com/Disease-Prediction',
+    githubLink: 'https://github.com/satwikasridhar/Disease-Prediction',
   },
   {
     cover: IMG6,
     name: "Crypto Tracker",
     description: "A dashboard for various cryptocurrencies and their trends in the market.",
-    githubLink: 'https://github.com/Crypto-Tracker',
+    githubLink: 'https://github.com/satwikasridhar/Crypto-Tracker',
+  },
+  {
+    cover: IMG7,
+    name: "Demographic Analysis",
+    description: "An analysis of the world's population country-wise and it's relation to GDP",
+    githubLink: 'https://github.com/satwikasridhar/Demographic-Analysis',
   },
   
 ]

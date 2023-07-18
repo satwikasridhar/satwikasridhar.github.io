@@ -62,9 +62,9 @@
 }
 /* media queries - small devices */
 @media screen and  (max-width: 600px) {
-    /* section{
-        padding-top: 8rem;
-    } */
+    .experience{
+        height: 110vh;
+    }
     .experience__container{
         display: flex;
         /* height: max-content; */

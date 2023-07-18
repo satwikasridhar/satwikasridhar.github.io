@@ -23,7 +23,7 @@
 }
 
 .about__me-image:hover{
-    transform: scale(1.1);
+    transform: scale(1.2);
     transition: var(--transition);
 }
 /* .about__cards{
@@ -88,7 +88,7 @@
 @media screen and  (max-width: 600px) {
     
     .about{
-        height: 100vh;
+        height: 120vh;
     }
     .container.about__container{
         grid-template-columns: 1fr;
@@ -115,6 +115,7 @@
     .about__content p {
         font-size: small;
         margin: 1.5rem 0;
+        overflow: scroll;
     }
     
 }
