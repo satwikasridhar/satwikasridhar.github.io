@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.80fe37e6.css",
-    "main.js": "/static/js/main.3d7683da.js",
+    "main.js": "/static/js/main.4260c911.js",
     "static/media/ids.jpg": "/static/media/ids.cf39a7f852fbf77ac979.jpg",
     "static/media/disease-prediction.jpg": "/static/media/disease-prediction.661aa5564e1c6d01b0b2.jpg",
     "static/media/pneumonia.jpg": "/static/media/pneumonia.054d7982b24ed7e5143c.jpg",
@@ -34,10 +34,10 @@
     "static/media/demographic.jpeg": "/static/media/demographic.9c5f3627a0a912a58ad0.jpeg",
     "index.html": "/index.html",
     "main.80fe37e6.css.map": "/static/css/main.80fe37e6.css.map",
-    "main.3d7683da.js.map": "/static/js/main.3d7683da.js.map"
+    "main.4260c911.js.map": "/static/js/main.4260c911.js.map"
   },
   "entrypoints": [
     "static/css/main.80fe37e6.css",
-    "static/js/main.3d7683da.js"
+    "static/js/main.4260c911.js"
   ]
 }
