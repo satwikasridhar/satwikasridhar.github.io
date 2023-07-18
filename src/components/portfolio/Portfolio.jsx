@@ -40,7 +40,7 @@ const data = [
     cover: IMG2,
     name: "Explainable AI for Intrusion Detection",
     description: "Developing an explainable AI model for intrusion detection to identify potential cyber threats.",
-    githubLink: 'https://github.com/satwikasridhar/Intrusion-Detection-Explainable-AI',
+    githubLink: 'https://github.com/satwikasridhar/CICIDs-Explainable-AI',
   },
   {
     cover: IMG3,
